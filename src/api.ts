@@ -1,4 +1,3 @@
-import { Todo } from './types/Todo';
 import { User } from './types/User';
 
 // eslint-disable-next-line operator-linebreak
